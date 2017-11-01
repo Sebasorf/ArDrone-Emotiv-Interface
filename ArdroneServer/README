@@ -1,0 +1,3 @@
+Para ejecutar eso, debo ejecutar 'make' en este directorio. 
+Lo que hace es ejecutar el makefile que creé, y compila todas las librerias
+generandome un ejecutable que se conecta directo con el dron
