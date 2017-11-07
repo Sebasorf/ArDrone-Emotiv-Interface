@@ -7,6 +7,28 @@
 // --------------------------------------------------------------------------
 int main(int argc, char *argv[])
 {
+	//Variables de aplicacion
+    int socket_fd, newsocket_fd, binded, server_length, msg_received;
+    socklen_t client_length;
+    struct sockaddr_in server_addr, client_addr;
+    char buf[MAXBUFSIZE];
+
+    //Socket();
+    socket_fd = socket(AF_INET, SOCK_STREAM, 0);
+    if(socket_fd == -1) error("Hubo un error al abrir el socket\n");
+
+    //Configuro server_addr
+    server_addr.sin_family = AF_INET;
+    server_addr.sin_addr.s_addr = inet_addr("192.168.0.21"); //or =INADDR_ANY
+    server_addr.sin_port = htons(8000);
+
+    //Configuro server length
+    server_length = sizeof(struct sockaddr_in);
+
+    //Bind();
+    binded = bind(socket_fd, (struct sockaddr *)&server_addr, server_length);
+    if (binded == -1) error("Hubo un error al intentar hacer un bind\n");
+	
     // AR.Drone class
     ARDrone ardrone;
 
@@ -41,34 +63,56 @@ int main(int argc, char *argv[])
     std::cout << "***************************************" << std::endl;
 
     while (1) {
-        // Key input
-        int key = cv::waitKey(33);
-        if (key == 0x1b) break;
+		printf("Esperando conexion... \n");
+        client_length = sizeof(client_addr);
+        
+        //Acept();
+        newsocket_fd = accept(socket_fd, (struct sockaddr *)&client_addr, &client_length );
+        printf("Conexion aceptada... \n");
 
         // Get an image
         cv::Mat image = ardrone.getImage();
 
-        // Take off / Landing 
-        if (key == ' ') {
-            if (ardrone.onGround()) ardrone.takeoff();
-            else                    ardrone.landing();
+		//Read(); messages in buffer
+        msg_received = recv(newsocket_fd, buf, MAXBUFSIZE, 0);
+        while(msg_received > 0 && msg_received <= MAXBUFSIZE)
+        {
+			double vx = 0.0, vy = 0.0, vz = 0.0, vr = 0.0;
+			
+            if (msg_received ==-1 ) error("Hubo un error al intentar leer el buffer");
+            buf[msg_received]='\0';
+			
+			if (buf[0]=='t')
+				if (ardrone.onGround()) ardrone.takeoff();
+			if (buf[0]=='a')
+				if (!ardrone.onGround()) ardronelanding();
+			if (buf[0]=='f')	vx =  1.0;
+			if (buf[0]=='l')	vr =  1.0;
+			if (buf[0]=='r')	vr = -1.0;
+			if (buf[0]=='b')	vx = -1.0;
+			if (buf[0]=='u')	vy =  1.0;
+			if (buf[0]=='n')	vz =  1.0;
+			if (buf[0]=='h')	vz = -1.0;
+			if (buf[0]=='d')	vy = -1.0;
+			ardrone.move3D(vx, vy, vz, vr);
+			
+            printf("%s", buf);
+            msg_received = recv(newsocket_fd, buf, MAXBUFSIZE, 0);
         }
-
         // Move
-        double vx = 0.0, vy = 0.0, vz = 0.0, vr = 0.0;
-        if (key == 'i' || key == CV_VK_UP)    vx =  1.0;
+        /*if (key == 'i' || key == CV_VK_UP)    vx =  1.0;
         if (key == 'k' || key == CV_VK_DOWN)  vx = -1.0;
         if (key == 'u' || key == CV_VK_LEFT)  vr =  1.0;
         if (key == 'o' || key == CV_VK_RIGHT) vr = -1.0;
         if (key == 'j') vy =  1.0;
         if (key == 'l') vy = -1.0;
         if (key == 'q') vz =  1.0;
-        if (key == 'a') vz = -1.0;
+        if (key == 'a') vz = -1.0;*/
         ardrone.move3D(vx, vy, vz, vr);
 
         // Change camera
-        static int mode = 0;
-        if (key == 'c') ardrone.setCamera(++mode % 4);
+        //static int mode = 0;
+        //if (key == 'c') ardrone.setCamera(++mode % 4);
 
         // Display the image
         cv::imshow("camera", image);
@@ -76,6 +120,11 @@ int main(int argc, char *argv[])
 
     // See you
     ardrone.close();
-
     return 0;
+}
+
+void error(const char *msg)
+{
+    perror(msg);
+    exit(0);
 }

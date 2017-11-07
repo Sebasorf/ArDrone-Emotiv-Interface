@@ -49,7 +49,7 @@ int main(int argc, char *argv[])
         newsocket_fd = accept(socket_fd, (struct sockaddr *)&client_addr, &client_length );
         printf("Conexion aceptada... \n");
 
-	//Read(); messages in buffer
+		//Read(); messages in buffer
         msg_received = recv(newsocket_fd, buf, MAXBUFSIZE, 0);
         while(msg_received > 0 && msg_received <= MAXBUFSIZE)
         {
