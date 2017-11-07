@@ -1,0 +1,17 @@
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\bin\Debug\Console.exe.config
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\bin\Debug\Console.exe
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\bin\Debug\Console.pdb
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\bin\Debug\Libs.dll
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\bin\Debug\Libs.pdb
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\obj\Debug\Console.exe
+c:\users\personal\documents\visual studio 2017\Projects\EmotivClientController\Console\obj\Debug\Console.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Console.exe.config
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\obj\Debug\Console.exe
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\obj\Debug\Console.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Console.exe
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Console.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache

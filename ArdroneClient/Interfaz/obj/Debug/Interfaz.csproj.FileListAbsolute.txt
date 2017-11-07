@@ -1,0 +1,14 @@
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.Cache
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Excepciones.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\Excepciones.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Interfaz\bin\Debug\UI.exe.config

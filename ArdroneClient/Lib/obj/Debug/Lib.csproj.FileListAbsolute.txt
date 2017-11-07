@@ -1,0 +1,28 @@
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\obj\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\obj\Debug\Lib.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\bin\Debug\Exceptions.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Lib\bin\Debug\Exceptions.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\bin\Debug\Exceptions.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\bin\Debug\Exceptions.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\obj\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\Lib\obj\Debug\Lib.pdb
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\bin\Debug\Exceptions.dll
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\bin\Debug\Exceptions.pdb
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\obj\Debug\Lib.dll
+C:\Users\Personal\Documents\GitHub\SocketConnection-C-CSharp\C#-Connection\ClientController\Lib\obj\Debug\Lib.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\bin\Debug\Lib.dll
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\bin\Debug\Lib.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\bin\Debug\Exceptions.dll
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\bin\Debug\Exceptions.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\obj\Debug\Lib.dll
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Lib\obj\Debug\Lib.pdb

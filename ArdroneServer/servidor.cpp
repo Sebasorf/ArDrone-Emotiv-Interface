@@ -1,3 +1,4 @@
+#import <cygwin/cygwin_dll.h> 
 #include <sys/socket.h>
 #include <stdio.h>
 #include <stdlib.h>

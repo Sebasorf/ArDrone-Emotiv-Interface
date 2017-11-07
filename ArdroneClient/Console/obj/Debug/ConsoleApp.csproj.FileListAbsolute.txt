@@ -1,0 +1,20 @@
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Console.exe.config
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Console.exe
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Console.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\obj\Debug\Console.exe
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\obj\Debug\Console.pdb
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Exceptions.dll
+C:\Users\Personal\Documents\Visual Studio 2013\Projects\EmotivClientController\EmotivClientController\Console\bin\Debug\Exceptions.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Console.exe.config
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Console.exe
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Console.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Lib.dll
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Exceptions.dll
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Lib.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\bin\Debug\Exceptions.pdb
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\obj\Debug\Console.exe
+D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Console\obj\Debug\Console.pdb
