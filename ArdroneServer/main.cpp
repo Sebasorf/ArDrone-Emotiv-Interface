@@ -107,13 +107,13 @@ int main(int argc, char *argv[])
             	vx =  1.0;
                 printf("Movement: Forward... \n");
             }
-    		if (buf[0]=='l'){	
-                vr =  1.0;
-                printf("Direction: Turn Left... \n");
+            	if (buf[0]=='l'){
+                vz =  1.0;
+                printf("Movement: Left\n");
             }
-    		if (buf[0]=='r'){	
-                vr = -1.0;
-                printf("Direction: Turn Right... \n");
+                if (buf[0]=='r'){
+                vz = -1.0;
+                printf("Movement: Right\n");
             }
     		if (buf[0]=='b'){
                 vx = -1.0;
@@ -122,14 +122,14 @@ int main(int argc, char *argv[])
     		if (buf[0]=='u'){
                 vy =  1.0;
                 printf("Height: Moving UP\n");
-            }	
-    		if (buf[0]=='n'){	
-                vz =  1.0;
-                printf("Movement: Left\n");
             }
-    		if (buf[0]=='h'){	
-                vz = -1.0;
-                printf("Movement: Right\n");
+                if (buf[0]=='n'){
+                vr =  1.0;
+                printf("Direction: Turn Left... \n");
+            }
+                if (buf[0]=='h'){
+                vr = -1.0;
+                printf("Direction: Turn Right... \n");
             }
     		if (buf[0]=='d'){	
                 vy = -1.0;
