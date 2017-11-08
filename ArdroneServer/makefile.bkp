@@ -6,14 +6,15 @@ LIBS          = -lm                     \
                 -lavformat              \
                 -lavcodec               \
                 -lswscale
-OBJS          = main.o \
+OBJS          = ardrone.o \
                 command.o \
                 config.o  \
                 udp.o     \
                 tcp.o     \
                 navdata.o \
                 version.o \
-                video.o
+                video.o   \
+                sample_navdata.o
 PROGRAM       = test2.a
 
 $(PROGRAM):     $(OBJS)

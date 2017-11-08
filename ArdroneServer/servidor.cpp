@@ -1,4 +1,8 @@
+#ifdef _WIN32
 #import <cygwin/cygwin_dll.h> 
+#endif
+
+
 #include <sys/socket.h>
 #include <stdio.h>
 #include <stdlib.h>
