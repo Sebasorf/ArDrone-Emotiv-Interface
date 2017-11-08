@@ -50,3 +50,16 @@ D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfa
 D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.csproj.GenerateResource.Cache
 D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.exe
 D:\Personal\Mis documentos\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.pdb
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\UI.exe.config
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.exe
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.pdb
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\UI.exe
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\UI.pdb
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\Exceptions.dll
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\Lib.dll
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\Exceptions.pdb
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\bin\Debug\Lib.pdb
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.MainProgram.resources
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Personal\Documents\GitHub\ArDrone-Emotiv-Interface\ArdroneClient\Interfaz\obj\Debug\UI.csproj.GenerateResource.Cache

@@ -129,7 +129,7 @@ namespace UI
         {
             try
             {
-                this.e_client.SendCommand("N"); //Turn Left
+                this.e_client.SendCommand("n"); //Turn Left
             }
             catch (MessageSenderException ms)
             {
@@ -141,7 +141,7 @@ namespace UI
         {
             try
             {
-                this.e_client.SendCommand("H"); //Turn Right
+                this.e_client.SendCommand("h"); //Turn Right
             }
             catch (MessageSenderException ms)
             {
@@ -210,43 +210,43 @@ namespace UI
             switch (e.KeyCode)
             {
                 case Keys.F:
-                    this.forward_btn.PerformClick();
+                    //this.forward_btn.PerformClick();
                     this.forward_btn.Select();
                     break;
                 case Keys.L:
-                    this.left_btn.PerformClick();
+                    //this.left_btn.PerformClick();
                     this.left_btn.Select();
                     break;
                 case Keys.R:
-                    this.right_btn.PerformClick();
+                    //this.right_btn.PerformClick();
                     this.right_btn.Select();
                     break;
                 case Keys.B:
-                    this.backward_btn.PerformClick();
+                    //this.backward_btn.PerformClick();
                     this.backward_btn.Select();
                     break;
                 case Keys.U:
-                    this.up_btn.PerformClick();
+                    //this.up_btn.PerformClick();
                     this.up_btn.Select();
                     break;
                 case Keys.N:
-                    this.t_left_btn.PerformClick();
+                    //this.t_left_btn.PerformClick();
                     this.t_left_btn.Select();
                     break;
                 case Keys.H:
-                    this.t_right_btn.PerformClick();
+                    //this.t_right_btn.PerformClick();
                     this.t_right_btn.Select();
                     break;
                 case Keys.D:
-                    this.down_btn.PerformClick();
+                    //this.down_btn.PerformClick();
                     this.down_btn.Select();
                     break;
                 case Keys.T:
-                    this.takeoff_btn.PerformClick();
+                    //this.takeoff_btn.PerformClick();
                     this.takeoff_btn.Select();
                     break;
                 case Keys.A:
-                    this.land_btn.PerformClick();
+                    //this.land_btn.PerformClick();
                     this.land_btn.Select();
                     break;
                 default:
